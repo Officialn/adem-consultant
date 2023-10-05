@@ -18,7 +18,7 @@ The Adem Business Consultant website is a comprehensive platform designed to off
 
 ## Learning Objectives
 
-This project was a valuable learning experience, focusing on enhancing web development skills, deepening understanding of business consultancy needs, improving communication, problem-solving, and project management skills. 
+This project was a vital component of the ALX Specialization, focusing on enhancing web development skills, deepening understanding of business consultancy needs, improving communication, problem-solving, and project management skills.
 
 ## Technologies Used
 
