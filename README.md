@@ -25,8 +25,9 @@ This project was a valuable learning experience, focusing on enhancing web devel
 - HTML
 - CSS
 - JavaScript
-- Bootstrap
+- Node.JS
 - PHP
+- SQL
 
 ## Future Plans
 
