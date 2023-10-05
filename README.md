@@ -37,6 +37,6 @@ We are committed to continual growth and improvement. Our future plans include e
 
 If you have any questions, feedback, or would like to explore how Adem Business Consultant can assist your organization, please feel free to reach out to us at:
 
-Contact us:##(mailto:nizameshetu@gmail.com)
+Contact us:(mailto:nizameshetu@gmail.com)
 
 We look forward to serving you and contributing to your business success.
